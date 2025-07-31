@@ -29,9 +29,12 @@ img{
     margin-left: 25%;
     
 }
+body{
+     background-color: bisque;
+
 main{
 
-    background-color: bisque;
+   
     margin: 20px 0;
     display: flex;
     flex-direction: column;
@@ -78,7 +81,7 @@ footer {
    }
 
  
-   }
+}}
 
 
 
